@@ -1,16 +1,28 @@
-## Hi there 👋
+## Saranrat Hudtip
 
-<!--
-**Macsarunrat/Macsarunrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Naresuan University focusing on DevOps, Cloud Infrastructure, and Backend Systems.
 
-Here are some ideas to get you started:
+**AWS Certified Cloud Practitioner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Focus
+
+* **Infrastructure & Cloud:** AWS, Amazon Linux (Bash), Docker, Docker Compose, Terraform, Portainer
+* **CI/CD & Deployment:** GitHub Actions, Portainer Webhooks, Automated Pipelines
+* **Backend Architecture:** Python (FastAPI, Django REST Framework), PostgreSQL, Redis, Celery, WebSockets, SSE
+
+---
+
+### Current Projects & Highlights
+
+* **Nutrition Assessment System (NU Hospital):** Deployed multi-container microservices using Docker Compose with automated CI/CD via Portainer Webhooks on university servers.
+* **Backend Intern @ XTEN Technology:** Built FastAPI REST endpoints, integrated WebSockets/SSE for real-time data streaming, and managed Dockerized testing environments.
+
+---
+
+### Contact & Profiles
+
+* **LinkedIn:** [linkedin.com/in/sarunrat-hutip](https://linkedin.com/in/sarunrat-hutip)
+* **Email:** sarunrat.ht@gmail.com
+* **Credly:** [AWS Certified Cloud Practitioner](https://www.credly.com)
