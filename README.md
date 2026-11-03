@@ -25,4 +25,4 @@ Computer Engineering student at Naresuan University focusing on DevOps, Cloud In
 
 * **LinkedIn:** [linkedin.com/in/sarunrat-hutip](https://linkedin.com/in/sarunrat-hutip)
 * **Email:** sarunrat.ht@gmail.com
-* **Credly:** [AWS Certified Cloud Practitioner]([https://www.credly.com](https://www.credly.com/badges/0f42b7fd-1a9f-4f6f-82c7-cdce40e4a660/public_url))
+* **Credly:** [AWS Certified Cloud Practitioner](https://www.credly.com](https://www.credly.com/badges/0f42b7fd-1a9f-4f6f-82c7-cdce40e4a660/public_url)
